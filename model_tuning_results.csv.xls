@@ -1,0 +1,4 @@
+Model,Best CV ROC-AUC,Best Parameters
+Logistic Regression,0.8596964287599084,"{'classifier__C': 0.1, 'classifier__solver': 'lbfgs'}"
+Random Forest,0.8759827902852979,"{'classifier__max_depth': None, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 200}"
+Support Vector Machine,0.862571047465248,"{'classifier__C': 0.1, 'classifier__kernel': 'rbf'}"
